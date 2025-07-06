@@ -1,0 +1,47 @@
+[
+  {
+    "code": "011",
+    "name": "青森市",
+    "prefecture_code": "02"
+  },
+  {
+    "code": "012",
+    "name": "弘前市",
+    "prefecture_code": "02"
+  },
+  {
+    "code": "013",
+    "name": "八戸市",
+    "prefecture_code": "02"
+  },
+  {
+    "code": "014",
+    "name": "黒石市",
+    "prefecture_code": "02"
+  },
+  {
+    "code": "015",
+    "name": "五所川原市",
+    "prefecture_code": "02"
+  },
+  {
+    "code": "016",
+    "name": "十和田市",
+    "prefecture_code": "02"
+  },
+  {
+    "code": "017",
+    "name": "三沢市",
+    "prefecture_code": "02"
+  },
+  {
+    "code": "018",
+    "name": "むつ市",
+    "prefecture_code": "02"
+  },
+  {
+    "code": "019",
+    "name": "つがる市",
+    "prefecture_code": "02"
+  }
+]

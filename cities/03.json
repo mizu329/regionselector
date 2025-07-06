@@ -1,0 +1,47 @@
+[
+  {
+    "code": "021",
+    "name": "盛岡市",
+    "prefecture_code": "03"
+  },
+  {
+    "code": "022",
+    "name": "宮古市",
+    "prefecture_code": "03"
+  },
+  {
+    "code": "023",
+    "name": "大船渡市",
+    "prefecture_code": "03"
+  },
+  {
+    "code": "024",
+    "name": "花巻市",
+    "prefecture_code": "03"
+  },
+  {
+    "code": "025",
+    "name": "北上市",
+    "prefecture_code": "03"
+  },
+  {
+    "code": "026",
+    "name": "久慈市",
+    "prefecture_code": "03"
+  },
+  {
+    "code": "027",
+    "name": "遠野市",
+    "prefecture_code": "03"
+  },
+  {
+    "code": "028",
+    "name": "一関市",
+    "prefecture_code": "03"
+  },
+  {
+    "code": "029",
+    "name": "陸前高田市",
+    "prefecture_code": "03"
+  }
+]
