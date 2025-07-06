@@ -47,6 +47,11 @@ function createPrefOptionsHtml(prefs) {
 
   const prefSelectorElm = rootElm.querySelector(".prefectures");
   prefSelectorElm.innerHTML = optionStrs.join("");
+
+  // 都道府県名が選択された時に市町村名を更新
+  prefSelectorElm.addEventListener("change", async () => {
+    await updateCity();
+  });
 }
 
 // 市町村名をDOMに反映
