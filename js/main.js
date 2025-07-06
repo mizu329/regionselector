@@ -6,12 +6,10 @@
 // displayPrefs();
 
 const rootElm = document.getElementById("areaSelector");
-console.log(rootElm);
 
 async function getPrefs() {
   const res = await fetch("../prefectures.json");
   const json = await res.json();
-  console.log(json);
   return json;
 }
 
@@ -29,7 +27,6 @@ function createPrefOptionsHtml(prefs) {
       </option>`
     );
   }
-  console.log(optionStrs);
 
   const prefSelectorElm = rootElm.querySelector(".prefectures");
   prefSelectorElm.innerHTML = optionStrs.join("");
